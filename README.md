@@ -1,2 +1,7 @@
-# Nuestro repositorio de prueba
- Este un repositorio de prueba y haremos nuestro primer **push**.
+# Listado de tareas
+
+- [x] Crear un repositorio
+- [x] Clonar el repositorio
+- [x] Primer push
+- [ ] Primer pull
+- [ ] Ramas
